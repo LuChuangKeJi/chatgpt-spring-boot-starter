@@ -8,7 +8,7 @@
         <version>2.7.11</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.luchuang</groupId>
+    <groupId>io.github.luchuangkeji</groupId>
     <artifactId>chatgpt-spring-boot-starter</artifactId>
     <version>4.0.7</version>
     <name>chatgpt-spring-boot-starter</name>
