@@ -10,12 +10,12 @@
     </parent>
     <groupId>io.github.luchuangkeji</groupId>
     <artifactId>chatgpt-spring-boot-starter</artifactId>
-    <version>4.0.7</version>
+    <version>4.0.8</version>
     <name>chatgpt-spring-boot-starter</name>
     <description>ChatGPT4.0、 ChatGPT Java SDK.</description>
     <properties>
         <java.version>1.8</java.version>
-        <chatgpt.version>4.0.7</chatgpt.version>
+        <chatgpt.version>4.0.8</chatgpt.version>
     </properties>
     <dependencies>
         <dependency>
